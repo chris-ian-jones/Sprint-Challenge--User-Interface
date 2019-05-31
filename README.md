@@ -51,7 +51,7 @@ Cross Axis
 
 5. Explain why git is valuable to a team of developers.
 
-Git is valuable becuase it is a distributed version control System that provides tools to developers. Git can be used by a team of developers to control and monitor code changes during development. Git has branching and pull request capabilities which allow you to work on new features in an isolated environment.
+Git is valuable becuase it is a distributed version control system that provides tools to developers. Git can be used by a team of developers to control and monitor code changes during development. Git has branching and pull request capabilities which allow you to work on new features in an isolated environment.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
