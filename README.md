@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is HTML which has meaning to it. Elements are considered semantic if they describe the purpose and/or type of content that is inside of them - a few examples of Sematic HTML elements are <header>, <footer>, and <section>. Using Semantic HTML makes code easier to read both for yourself (when coming back to your code later), as well as other developers. Semantic HTML also has accessibility benefits for machines. Technologies which assist users while browsing such as screen readers or search engines, can better understand the content and context of your website. 
+Semantic HTML is HTML which has meaning to it. Elements are considered semantic if they describe the purpose and/or type of content that is inside of them - a few examples of Sematic HTML elements are `<header>`, `<footer>`, and `<section>`. Using Semantic HTML makes code easier to read both for yourself (when coming back to your code later), as well as other developers. Semantic HTML also has accessibility benefits for machines. Technologies which assist users while browsing such as screen readers or search engines, can better understand the content and context of your website. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
